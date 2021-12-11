@@ -1,0 +1,18 @@
+{
+  "name": "Lokesh Digari",
+  "type": "personal",
+  "bio": "student, web-dev",
+  "avatar": "https://github.com/lokicodedaily.png",
+  "links": [
+    {
+      "name": "lokicodedaily",
+      "url": "https://github.com/lokicodedaily",
+      "icon": "github"
+    },
+    {
+      "name": "@lokidigari",
+      "url": "https://twitter.com/lokidigari",
+      "icon": "twitter"
+    }
+  ]
+}
